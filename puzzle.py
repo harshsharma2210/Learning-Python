@@ -107,7 +107,7 @@ def main():
 
     while len(stack) > 0:
 
-        # BFS (Queue)
+        # BFS (Queue) can be 
         current_state = stack.popleft()
 
         # DFS (Stack)
